@@ -39,10 +39,10 @@
 ## 🌐 Let’s Connect  
 
 <p align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:manna.dsi@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+  <a href="https://www.linkedin.com/in/arunov-chakraborty/">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/SunnyUI-cyberhead">
