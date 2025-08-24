@@ -34,24 +34,25 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=SunnyUI-cyberhead&theme=radical" height="170"/>
 </div>
 
+---
 
-<!-- Contribution graph snake -->
+## 🐍 Contribution Graph Snake
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SunnyUI-cyberhead/SunnyUI-cyberhead/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SunnyUI-cyberhead/SunnyUI-cyberhead/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/SunnyUI-cyberhead/SunnyUI-cyberhead/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/SunnyUI-cyberhead/SunnyUI-cyberhead/output/github-contribution-grid-snake.svg" />
 </picture>
-
 
 ---
 
 ## 🌐 Let’s Connect  
 
 <p align="center">
-  <a href="mailto:manna.dsi@gmail.com">
+  <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/arunov-chakraborty/">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/SunnyUI-cyberhead">
