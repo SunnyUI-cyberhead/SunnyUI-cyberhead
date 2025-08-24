@@ -21,9 +21,9 @@
 
 ## 🚀 Featured Projects
 
-🌟 **[HSN Classifier](https://github.com/SunnyUI-cyberhead/HSNClassifier)** → BiLSTM classifier powered by TensorFlow & Keras  
+🌟 **[Brain Tumour Classification](https://github.com/SunnyUI-cyberhead/brain-tumour-classification)** → BiLSTM classifier powered by TensorFlow & Keras  
 🤖 **[HSN Agent](https://github.com/SunnyUI-cyberhead/HSNAgent)** → Multi-agent AI system using OpenAI function calling  
-📚 **[Transfer Learning Toolkit](https://github.com/SunnyUI-cyberhead/transferlearning)** → Datasets, papers & tutorials on domain adaptation  
+📚 **[Shopper Spectrum](https://github.com/SunnyUI-cyberhead/Shopper-Spectrum)** → AI-driven analysis for consumer behavior & domain adaptation  
 
 ---
 
@@ -34,17 +34,21 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=SunnyUI-cyberhead&theme=radical" height="170"/>
 </div>
 
+
 <!-- Contribution graph snake -->
-<div align="center">
-  <img src="https://github.com/SunnyUI-cyberhead/SunnyUI-cyberhead/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SunnyUI-cyberhead/SunnyUI-cyberhead/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SunnyUI-cyberhead/SunnyUI-cyberhead/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/SunnyUI-cyberhead/SunnyUI-cyberhead/output/github-contribution-grid-snake.svg" />
+</picture>
+
 
 ---
 
 ## 🌐 Let’s Connect  
 
 <p align="center">
-  <a href="mailto:arunov420@gmail.com">
+  <a href="mailto:manna.dsi@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/arunov-chakraborty/">
