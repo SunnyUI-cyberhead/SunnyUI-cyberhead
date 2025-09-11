@@ -36,7 +36,7 @@
 ```python
 class CyberDeveloper:
     def __init__(self):
-        self.name = "SunnyUI-cyberhead" 
+        self.name = "Arunov Chakraborty" 
         self.location = "🌍 Guwahati, Assam | Digital Dimension"
         self.consciousness_level = "🧠 AI-Enhanced Human"
         self.current_mission = "Bridging Human Creativity with AI Intelligence"
