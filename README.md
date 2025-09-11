@@ -1,24 +1,25 @@
-# <div align="center">![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=700&height=120&lines=%F0%9F%A4%96+INITIALIZING+AI+MATRIX...;%F0%9F%8C%9F+WELCOME+TO+THE+DIGITAL+REALM;%F0%9F%92%BB+I'M+Arunov+%F0%9F%9A%80)</div>
-
-
 <div align="center">
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1500&color=00FF41&center=true&vCenter=true&multiline=true&width=800&height=80&lines=%F0%9F%A4%96+INITIALIZING+AI+MATRIX...;%F0%9F%8C%9F+DIGITAL+REALM+ACTIVATED;%F0%9F%9A%80+SUNNYUI-CYBERHEAD+ONLINE)
+
+<br/>
+
 ```
-    ╔═══════════════════════════════════════════════════════════════╗
-    ║   🎮 LOADING DEVELOPER.EXE... ████████████████████████ 100%   ║
-    ║                                                               ║
-    ║     ██████╗██╗   ██╗██████╗ ███████╗██████╗ ██╗  ██╗███████╗  ║
-    ║    ██╔════╝╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗██║  ██║██╔════╝  ║
-    ║    ██║      ╚████╔╝ ██████╔╝█████╗  ██████╔╝███████║█████╗    ║
-    ║    ██║       ╚██╔╝  ██╔══██╗██╔══╝  ██╔══██╗██╔══██║██╔══╝    ║
-    ║    ╚██████╗   ██║   ██████╔╝███████╗██║  ██║██║  ██║███████╗  ║
-    ║     ╚═════╝   ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝  ║
-    ║                                                               ║
-    ║             🌟 ENHANCED WITH ARTIFICIAL INTELLIGENCE 🌟       ║
-    ╚═══════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════╗
+║  🎮 LOADING DEVELOPER.EXE... ████████████████████████████████ 100%     ║
+║                                                                        ║
+║   ██████╗██╗   ██╗██████╗ ███████╗██████╗ ██╗  ██╗███████╗ █████╗ ██████╗ ║
+║  ██╔════╝╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗██║  ██║██╔════╝██╔══██╗██╔══██╗║
+║  ██║      ╚████╔╝ ██████╔╝█████╗  ██████╔╝███████║█████╗  ███████║██║  ██║║
+║  ██║       ╚██╔╝  ██╔══██╗██╔══╝  ██╔══██╗██╔══██║██╔══╝  ██╔══██║██║  ██║║
+║  ╚██████╗   ██║   ██████╔╝███████╗██║  ██║██║  ██║███████╗██║  ██║██████╔╝║
+║   ╚═════╝   ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═════╝ ║
+║                                                                        ║
+║              🌟 ENHANCED WITH ARTIFICIAL INTELLIGENCE 🌟               ║
+╚════════════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=header&text=&fontSize=90&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=80&section=header&text=&fontSize=90&animation=twinkling" width="100%"/>
 
 </div>
 
