@@ -1,4 +1,4 @@
-# <div align="center">![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=700&height=120&lines=%F0%9F%A4%96+INITIALIZING+AI+MATRIX...;%F0%9F%8C%9F+WELCOME+TO+THE+DIGITAL+REALM;%F0%9F%92%BB+I'M+SUNNYUI-CYBERHEAD+%F0%9F%9A%80)</div>
+# <div align="center">![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=700&height=120&lines=%F0%9F%A4%96+INITIALIZING+AI+MATRIX...;%F0%9F%8C%9F+WELCOME+TO+THE+DIGITAL+REALM;%F0%9F%92%BB+I'M+Arunov+%F0%9F%9A%80)</div>
 
 <div align="center">
 
